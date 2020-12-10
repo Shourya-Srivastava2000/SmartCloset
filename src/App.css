@@ -10,7 +10,7 @@ h1 {
 }
 
 
-/* inspiration citation: https://css-tricks.com/snippets/css/typewriter-effect/" 
+/* inspiration citation: https://css-tricks.com/snippets/css/typewriter-effect/"
    gives the typing effect for the beginning sentence
 */
 
@@ -306,7 +306,7 @@ h2 {
     align-content: flex-start;
     padding: 1rem;
     width: 90%;
-} 
+}
 
 .paragraphContainer {
     display: inline-block;
@@ -340,12 +340,12 @@ h2 {
     .navbar-nav a {
         display: inline-block;
     }
-    
+
     .typingIt p{
         display: inline-block;
     }
 }
 
 @media (min-width: 992px) {
-    
+
 }

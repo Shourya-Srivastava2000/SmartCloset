@@ -46,9 +46,9 @@ class FilterBase extends Component {
       </div>
       <footer className="contactus" id="contact">
         <address>
-          Contact us at <a aria-label="email-link" id="mailLink" href="mailto:mycloset@gmail.com">mycloset@gmail.com</a>, or at <a aria-label="phone number" id="number" href="tel:123-456-7890">(123) 456-7890</a>
+          Contact us at <a aria-label="email-link" id="mailLink" href="mailto:randomemail@gmail.com">randomemail@gmail.com</a>
         </address>
-        <p>&copy; Colten  Pragyna  Tyson  Yash</p>
+        <p>&copy; Anh, Aniruddh, Luiz, and Shourya</p>
       </footer>
       </ReactiveBase>
     );
