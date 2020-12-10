@@ -37,7 +37,7 @@ class FilterBase extends Component {
           <SortCards />
         </ div>
 
-        <div className="clothes" id="closet"> 
+        <div className="clothes" id="closet">
           <Switch>
             <Route exact path="/" component= {ClothesCard}/>
             <Route path="/item/:name" component={DetailPage}/>
